@@ -8,7 +8,7 @@ void printScreen(vector<string> v){
     }
 }
 
-const wah = 10;
+const int wah = 10;
 
 int main(){
     cout << "Hello World" << endl;
