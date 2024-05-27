@@ -8,6 +8,8 @@ void printScreen(vector<string> v){
     }
 }
 
+const wah = 10;
+
 int main(){
     cout << "Hello World" << endl;
     vector<string> map;
